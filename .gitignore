@@ -57,3 +57,11 @@ typings/
 # dotenv environment variables file
 .env
 
+# built component library
+/lib
+
+# built docs
+/docs
+
+# Generated component data
+/config/componentData.js
